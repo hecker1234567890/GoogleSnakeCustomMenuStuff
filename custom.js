@@ -1,5 +1,7 @@
 window.snake.more_menu = function(e) {
   e = e || 25;
+ 
+  alert('hacks and mods activated, have fun!lmao');
   
   // micro
   let img = new Image;
